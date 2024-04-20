@@ -1,0 +1,15 @@
+.container-fluid{
+  height:75px;
+  background-color:rgb(147, 147, 234);
+}
+.feature-container{
+  width:100%;
+  background-color:beige;
+}
+.card-cover{
+  width:23rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-right: 10px;
+}
